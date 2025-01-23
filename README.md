@@ -19,6 +19,14 @@ missing values in the data (if any).
 
 ## Project Structure
 
+``📂 Project Root  
+├── marun_sample2.csv            # SQL queries used for data extraction  
+├── 2019 Application of decision tree               # SQL dataset used for the project  
+├── README.md                # Project documentation (this file)  
+├── Results.pdf   # Answers to tasks  
+├── R script.R ``
+
+
 
 
 
